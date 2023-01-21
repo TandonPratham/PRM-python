@@ -5,4 +5,3 @@ country_name VARCHAR(100)
 CHECK(country_name IN('Italy','India','China')) ,
 region_id decimal(10,0)
 );
-desc countries;
