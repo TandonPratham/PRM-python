@@ -9,4 +9,4 @@ desc countries;
 DROP TABLE IF EXISTS country_new;
 CREATE TABLE  country_new 
 AS SELECT * FROM countries;
-desc country_new;
+
